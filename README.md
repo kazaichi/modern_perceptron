@@ -1,1 +1,1 @@
-![秋田犬](https://github.com/kazaichi/modern_perceotron/blob/images/TIME.png)
+![TIME](https://github.com/kazaichi/modern_perceptron/blob/images/TIME.PNG)
