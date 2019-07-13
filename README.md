@@ -11,5 +11,5 @@
 元となる画像  
 ![TIME](https://github.com/kazaichi/modern_perceptron/blob/images/TIME.PNG)
 
-学習結果
+学習結果  
 ![TIME](https://github.com/kazaichi/modern_perceptron/blob/images/train_TIME.PNG)
